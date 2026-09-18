@@ -4,3 +4,4 @@ langchain
 langchain-google-genai
 python-dotenv
 langchain_groq
+pdfplumber
